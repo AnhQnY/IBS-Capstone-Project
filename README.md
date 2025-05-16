@@ -8,5 +8,6 @@ The workspace contains the following subfolders:
 
 - Interim outputs: As uploading and extracting a documents takes a significant time to speed up the process, on certain points the csv file can be used
 - Engagement tracker info: Contains the metadata extracted from  https://www.enforcementtracker.com/
+- Saved model: this folder contains the outputs of the LDA model
 
 As the the PDF Files take too much time to upload and download, due its size, the file is hosted on the following Google Drive link: https://drive.google.com/file/d/1XDmVcB5R_5xRoZooqFG17AMr3MJ4RoYp/view?usp=drive_link
