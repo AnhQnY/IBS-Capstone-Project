@@ -10,5 +10,7 @@ The workspace contains the following subfolders:
 - Engagement tracker info: Contains the metadata extracted from  https://www.enforcementtracker.com/
 - Saved model: this folder contains the outputs of the LDA model
 - Gemini prompts: documention for the GenAI used as it only stored during the runtime of the notebook
+- Topic data: contains results and analysis related to topic modelling
+- OCR Converted Documents: on few occasions PDF pages where scanned images, this folder contains the converted versions
 
-As the the PDF Files take too much time to upload and download, due its size, the file is hosted on the following Google Drive link: https://drive.google.com/file/d/1XDmVcB5R_5xRoZooqFG17AMr3MJ4RoYp/view?usp=drive_link
+As the the PDF Files take too much time to upload and download, due its size, the file is also hosted on the following Google Drive link: https://drive.google.com/file/d/1I9GQjl0jlzXNCZnEhl8yikjyGDBanBsN/view?usp=drive_link
